@@ -1,4 +1,3 @@
-package saru;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -71,4 +70,5 @@ public class WasteCollectionScheduler extends JFrame {
     public static void main(String[] args) {
         new WasteCollectionScheduler();
     }
+
 }
